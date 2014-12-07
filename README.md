@@ -1,8 +1,12 @@
 Dockerfiles for MedPy - Medical image processing in Python
 ==========================================================
+
 **PyPi**: <https://pypi.python.org/pypi/MedPy/>
+
 **GitHub**: <https://github.com/loli/medpy>
+
 **DockerHub**: <https://registry.hub.docker.com/u/loli/medpy>
+
 **Documentation**: <http://pythonhosted.org/MedPy/>
 
 Description
