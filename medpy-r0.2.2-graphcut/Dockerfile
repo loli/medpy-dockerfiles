@@ -1,3 +1,10 @@
+# Build a Docker container that contains a python 2.7 
+# environment and MedPy 0.2.2. with graphcut support
+#
+#   docker build -t medpy-r0.2.2-graphcut PATH_TO_THIS_FILE
+#
+#   docker run -ti medpy-r0.2.2-graphcut
+
 FROM ubuntu:14.04
 
 MAINTAINER Oskar Maier, Dirk Fortmeier :version 0.1
