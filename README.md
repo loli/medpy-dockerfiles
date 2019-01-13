@@ -16,7 +16,7 @@ Inter-dependent docker files to create out-of-the-box instances of **MedPy**. In
 Dependencies-tree
 -----------------
 
-    * Ubuntu:14.04
+    * Ubuntu:18.04
         * loli/medpy:dependencies
             * loli/medpy:release
             * loli/medpy:development
